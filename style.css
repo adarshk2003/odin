@@ -8,5 +8,16 @@
  .dark-mode {
      background-color: black;
      color: white;
+
+     
+    
  }
+.termcondi {
+    text-decoration: none;
+    color: gray;
+}
+.termcondi:hover{
+    text-decoration: underline;
+    color: grey;
+}
 
